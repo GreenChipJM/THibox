@@ -114,7 +114,7 @@ The TFT screen will display real-time weather information and time.
 
 ## Factory Reset
 
-1. Factory Firmware: THibox.bin
+1. Factory Firmware: [THibox.bin](https://github.com/GreenChipJM/THibox/blob/main/THibox/build/esp32.esp32.esp32s3/THibox.ino.bin)
 2. For esp32 firmware burning, please refer to[Flash Download Tool User Guide - ESP32 - — ESP Test Tools latest documentation](https://docs.espressif.com/projects/esp-test-tools/en/latest/esp32/production_stage/tools/flash_download_tool.html)
 
 ## Troubleshooting
