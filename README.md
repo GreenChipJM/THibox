@@ -21,7 +21,8 @@ This is an AI Voice Weather Station that retrieves real-time weather data via th
 
 ## Hardware Connection
 
-![image 1](https://github.com/user-attachments/assets/5db24858-39b1-4e7e-a207-712423d83925)
+![image 1](https://github.com/user-attachments/assets/161b5961-6b4e-4e8c-8d2a-023c4b80c7ef)
+
 
 
 
