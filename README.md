@@ -21,7 +21,9 @@ This is an AI Voice Weather Station that retrieves real-time weather data via th
 
 ## Hardware Connection
 
-![image.png](attachment:14be77b0-eb75-49f3-a847-2adfb77de5b9:image.png)
+![image 1](https://github.com/user-attachments/assets/5db24858-39b1-4e7e-a207-712423d83925)
+
+
 
 ## Software Dependencies
 
@@ -55,7 +57,8 @@ Edit the TFT_eSPI/User_Setup_Select.h file to use #include <User_Setups/Setup206
 6. **Configure Development Board Options**
 Refer to the image for board settings:
     
-    ![image.png](attachment:86334b82-d22a-490e-8bbf-9b43f47adc7c:image.png)
+    ![image](https://github.com/user-attachments/assets/98f886ec-7420-4e96-8627-f7733e115070)
+
     
 
 ## API Key Application Methods
